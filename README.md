@@ -27,7 +27,6 @@ rpg_game/
 
 ### **Allgemeine Projektinformationen**
 - **Ersteller**: Benedikt
-- **Interessen & Kenntnisse**: Benedikt interessiert sich für Python, Pygame, Data Science (z. B. SQL) und Künstliche Intelligenz, darunter neuronale Netzwerke und genetische KI.
 - **Programmiersprachen & Tools**: 
   - Python als Hauptprogrammiersprache
   - Pygame für die grafische Darstellung
